@@ -34,6 +34,7 @@ public class Main {
 
                 // Printing result to console
                 System.out.println(number + " is dividable by 3.");
+                
             } else {
 
                 // Printing result to console
